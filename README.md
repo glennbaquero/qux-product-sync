@@ -1,4 +1,4 @@
-# L-R Transport Management System
+# QUX Product Sync for WP WooCommerce products
 
 This repository is provided **for project viewing and portfolio demonstration purposes only**.
 
