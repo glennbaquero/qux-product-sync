@@ -3,7 +3,7 @@
 Plugin Name: QUX Pay® Product Sync
 Description: Sync your WooCommerce products to QUX®Marketplace. Recommended with QUX Pay® Payment integration. Compatible with WordFence.
 Version: 1.1.3
-Author: Qux
+Author: Glenn Carlo Baquero
 Requires PHP: 7.4
 Requires at least: 6.7
 Tested up to: 6.8.2
